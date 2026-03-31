@@ -18,7 +18,7 @@ qjrpkg install <repo> - install package
 qjrpkg remove <name>  - remove package
 qjrpkg list           - package list
 ```
-Example:
+### Example:
 
 ```
 qjrpkg install https://gitub.com/user/repo.git
