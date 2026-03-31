@@ -22,4 +22,6 @@ Example:
 
 ```
 qjrpkg install https://gitub.com/user/repo.git
+qjrpkg source https://gitub.com/user/repo.git
+qjrpkg remove repo
 ```
